@@ -1,0 +1,10 @@
+
+@media screen and (max-width: 1400px) {
+    .container .sidebar .playing .bottom p {
+        font-size: 10px;
+    }
+
+    .container main header .search {
+        width: 50%;
+    }
+}
